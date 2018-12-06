@@ -3,7 +3,7 @@
     <target>
         <inSequence>
             <payloadFactory media-type="text">
-                <format>Hello World</format>
+                <format>New text</format>
                 <args/>
             </payloadFactory>
             <respond/>
