@@ -3,7 +3,7 @@
     <target>
         <inSequence>
             <payloadFactory media-type="text">
-                <format>Hello 5</format>
+                <format>10H37</format>
                 <args/>
             </payloadFactory>
             <respond/>
