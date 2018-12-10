@@ -3,7 +3,7 @@
     <target>
         <inSequence>
             <payloadFactory media-type="text">
-                <format>Deployment on Jenkins</format>
+                <format>Deployment on Jenkins second test</format>
                 <args/>
             </payloadFactory>
             <respond/>
